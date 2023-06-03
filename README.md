@@ -1,5 +1,6 @@
-[Português-Brasil](README.pt-br.md.md)
-[Español](README.pt-br.md.md)
+[Português-Brasil](README.pt-br.md)
+
+[Español](README.pt-br.md)
 
 # Temperature Control with Arduino Nano
 
